@@ -90,7 +90,7 @@ export default function Topbar({ setMobileOpen, collapsed }) {
             </button>
 
             {showNotifications && (
-              <div className="absolute mt-2 right-2 left-2 sm:right-0 sm:left-auto w-auto sm:w-96 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl shadow-2xl overflow-hidden z-50 animate-in fade-in zoom-in-95 duration-150">
+              <div className="fixed top-16 right-2 left-2 sm:right-0 sm:left-auto w-auto sm:w-96 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl shadow-2xl overflow-hidden z-50 animate-in fade-in zoom-in-95 duration-150">
                 <div className="flex items-center justify-between px-4 py-3 border-b border-slate-100 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/30">
                   <div className="flex items-center gap-2">
                     <h4 className="font-semibold text-sm text-slate-900 dark:text-slate-100">
