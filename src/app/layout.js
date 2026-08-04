@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "TaskFlow | Modern Task Management System",
+  title: "TodoList | Modern Task Management System",
   description: "A professional SaaS task management platform to boost productivity and workflow.",
 };
 

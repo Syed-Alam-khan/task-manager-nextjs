@@ -19,5 +19,5 @@ export default function Home() {
     }
   }, [user, loading, router]);
 
-  return <Loader fullScreen text="Loading TaskFlow..." />;
+  return <Loader fullScreen text="Loading TodoList..." />;
 }

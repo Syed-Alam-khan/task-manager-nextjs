@@ -63,7 +63,7 @@ export default function Sidebar({ collapsed, setCollapsed, mobileOpen, setMobile
               </div>
               {!collapsed && (
                 <span className="font-bold text-lg text-slate-900 dark:text-slate-100 tracking-tight whitespace-nowrap">
-                  TaskFlow
+                  TodoList
                 </span>
               )}
             </Link>

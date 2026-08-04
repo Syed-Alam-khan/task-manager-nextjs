@@ -92,7 +92,7 @@ export default function RegisterPage() {
             Create an account
           </h1>
           <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">
-            Start managing your tasks efficiently with TaskFlow
+            Start managing your tasks efficiently with TodoList
           </p>
         </div>
 
